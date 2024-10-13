@@ -6,3 +6,9 @@ visualisation. The map has multiple features such as scrolling, zooming in, zoom
 a map, enabling viewers to observe differences between prices in various countries within the same region. An investigation was conducted to determine whether this correlation 
 was negative, positive, or neutral by plotting each fuel type's prices as a function of time. An interactive visualisation was designed that allowed users to select a specific 
 country. Upon selecting a country on the map, a graph displaying the average prices for both petrol and diesel from 2005 - 2023 would appear to the right of the map. 
+
+References:
+
+https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en#maps-with-fuel-prices-in-euro
+
+https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
