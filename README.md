@@ -9,6 +9,6 @@ country. Upon selecting a country on the map, a graph displaying the average pri
 
 References:
 
-https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en#maps-with-fuel-prices-in-euro
+Fuel Prices: https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en#maps-with-fuel-prices-in-euro
 
-https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
+Europe Map: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
